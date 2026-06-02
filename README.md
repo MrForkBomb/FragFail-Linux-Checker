@@ -30,7 +30,7 @@ Clonar el repositorio:
 * ```chmod +x Dirty-Frag.sh```
 * ```./Dirty-Frag.sh o bash Dirty-Frag.sh```
 
-
+<br> ![FragFail-Linux-Checker](Frag-Fail.png)
 
 
 --------
